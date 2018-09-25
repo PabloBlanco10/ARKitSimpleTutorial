@@ -6,7 +6,7 @@ Third scene includes a simple example of Earth, Sun and Moon rotations with text
 # Requirements:
   - Operative System > iOS 11
   - Device > iPhone 5 SE
-  
+  - Xcode > 9
   
 # Usage:
   - Run app
