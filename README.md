@@ -3,6 +3,12 @@ Simple tutorial for ARKit with 3 example scenes with Augmented Reality (Short So
 
 Third scene includes a simple example of Earth, Sun and Moon rotations with textures.
 
-Requirements:
+# Requirements:
   - Operative System > iOS 11
   - Device > iPhone 5 SE
+  
+  
+# Usage:
+  - Run app
+  - Focus the camera to anywhere
+  - See short solar system in Augmented Reality
